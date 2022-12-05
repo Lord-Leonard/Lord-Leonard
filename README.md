@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lord-Leonard
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
+- 👀 Ich bin leidenschafftlicher Fullstack entwickler
+- 🌱 I’m currently learning NestJS
+<!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
 Lord-Leonard/Lord-Leonard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
