@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lord-Leonard
 - 👀 Ich bin leidenschafftlicher Fullstack entwickler
-- 🌱 I’m currently learning NestJS
+- 🌱 I’m currently learning EDI processing
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
